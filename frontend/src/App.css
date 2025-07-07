@@ -1,0 +1,13 @@
+/* Make body full size and remove default margin */
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+/* Style your chat container */
+.chat-background {
+    background-color: rgb(38, 38, 38);
+    height: 100vh;
+    width: 100%;
+}
